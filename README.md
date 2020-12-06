@@ -7,5 +7,5 @@ chmod +x agent_install.sh
 ```
 Run it
 ```sh
-./openvpn-install.sh
+./agent_install.sh
 ```
